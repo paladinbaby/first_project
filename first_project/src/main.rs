@@ -4,7 +4,7 @@ fn main() {
     let input1 = "my_first";
     println!("input1 is {}", input1);
 
-    let input2 = String::from("hello");
+    let input2 = "hello";
     println!("input2 is {}", input2);
 
     let rand_number = rand::random();
